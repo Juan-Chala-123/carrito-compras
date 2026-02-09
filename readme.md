@@ -1,16 +1,10 @@
-# \# Cafetería
+# Cafetería
 
+## Instructor: Jesús Ariel González Bonilla
 
+## Aprendiz: Juan Pablo Chala Ramirez
 
-\## Instructor: Jesús Ariel
-
-
-
-\## Aprendiz: Juan Pablo Chala Ramirez
-
-
-
-\## Ficha: 3145556
+## Ficha: 3145556
 
 
 
